@@ -1,0 +1,27 @@
+C:\Users\Mateus\Desktop\Programas\Programa Mochila\Programa Mochila\bin\Debug\Programa Mochila.exe.config
+C:\Users\Mateus\Desktop\Programas\Programa Mochila\Programa Mochila\bin\Debug\Programa Mochila.exe
+C:\Users\Mateus\Desktop\Programas\Programa Mochila\Programa Mochila\bin\Debug\Programa Mochila.pdb
+C:\Users\Mateus\Desktop\Programas\Programa Mochila\Programa Mochila\obj\Debug\Programa_Mochila.Form1.resources
+C:\Users\Mateus\Desktop\Programas\Programa Mochila\Programa Mochila\obj\Debug\Programa_Mochila.Properties.Resources.resources
+C:\Users\Mateus\Desktop\Programas\Programa Mochila\Programa Mochila\obj\Debug\Programa Mochila.csproj.GenerateResource.Cache
+C:\Users\Mateus\Desktop\Programas\Programa Mochila\Programa Mochila\obj\Debug\Programa Mochila.exe
+C:\Users\Mateus\Desktop\Programas\Programa Mochila\Programa Mochila\obj\Debug\Programa Mochila.pdb
+F:\Programas\Programa Mochila\Programa Mochila\bin\Debug\Programa Mochila.exe.config
+F:\Programas\Programa Mochila\Programa Mochila\obj\Debug\Programa Mochila.exe
+F:\Programas\Programa Mochila\Programa Mochila\obj\Debug\Programa Mochila.pdb
+F:\Programas\Programa Mochila\Programa Mochila\bin\Debug\Programa Mochila.exe
+F:\Programas\Programa Mochila\Programa Mochila\bin\Debug\Programa Mochila.pdb
+F:\Programas\Programa Mochila\Programa Mochila\obj\Debug\Programa Mochila.csprojResolveAssemblyReference.cache
+F:\Programas\Programa Mochila\Programa Mochila\obj\Debug\Programa_Mochila.Form1.resources
+F:\Programas\Programa Mochila\Programa Mochila\obj\Debug\Programa_Mochila.Properties.Resources.resources
+F:\Programas\Programa Mochila\Programa Mochila\obj\Debug\Programa Mochila.csproj.GenerateResource.Cache
+K:\Programas\Programa Mochila\Programa Mochila\bin\Debug\Programa Mochila.exe.config
+K:\Programas\Programa Mochila\Programa Mochila\obj\Debug\Programa Mochila.exe
+K:\Programas\Programa Mochila\Programa Mochila\obj\Debug\Programa Mochila.pdb
+K:\Programas\Programa Mochila\Programa Mochila\bin\Debug\Programa Mochila.exe
+K:\Programas\Programa Mochila\Programa Mochila\bin\Debug\Programa Mochila.pdb
+K:\Programas\Programa Mochila\Programa Mochila\obj\Debug\Programa Mochila.csprojResolveAssemblyReference.cache
+K:\Programas\Programa Mochila\Programa Mochila\obj\Debug\Programa_Mochila.Form1.resources
+K:\Programas\Programa Mochila\Programa Mochila\obj\Debug\Programa_Mochila.Properties.Resources.resources
+K:\Programas\Programa Mochila\Programa Mochila\obj\Debug\Programa Mochila.csproj.GenerateResource.Cache
+C:\Users\Mateus\Desktop\Programas\Programa Mochila\Programa Mochila\obj\Debug\Programa Mochila.csprojResolveAssemblyReference.cache
